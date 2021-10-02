@@ -1,4 +1,4 @@
-# ConsultaCEP
+# Consulta de CEP
 
 ## Status
 
@@ -6,7 +6,7 @@
 
 ## Descrição
 
-Aplicação Web na qual consome uma Fetch API e retorna valores de um Codigo de Endereçamento Postal.
+Website no qual consome uma API de CEP, e preenche o formulário com os dados, utilizando Javascript
 
 ## Tecnologias utilizadas
 
